@@ -1,4 +1,4 @@
-#!C:\Users\jnony\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9\python.exe
+#!C:\Users\jnony\AppData\Local\Programs\Python\Python39\python.exe
 import cgi, os
 
 print('content-type:text/html\r\n\r\n')
